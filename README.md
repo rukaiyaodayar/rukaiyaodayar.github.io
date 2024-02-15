@@ -18,7 +18,7 @@ Playing Chess, Photography
 ### Contact Details
 rukaiyaodayar2003@gmail.com
 
-📄 To get my resume click the link: [assets/HS23583214_Odayar Fathima Rukaiya.pdf](assets/HS23583214_Odayar Fathima Rukaiya.pdf)
+📄 To get my resume click the link: [assets/HS23583214_Odayar Fathima Rukaiya.pdf](My Resume:Rukaiya Odayar.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

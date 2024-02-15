@@ -20,7 +20,5 @@ rukaiyaodayar2003@gmail.com
 
 - 📄 To get my resume click the link [Odayar Fathima Rukaiya.pdf](assets/HS23583214_Odayar Fathima Rukaiya.pdf)
   
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/rukaiyaodayar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rukaiyaodayar" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rukaiyaodayar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Odayar Rukaiya) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCBi2TGxKZX_W1if4Jup3mHQ) 

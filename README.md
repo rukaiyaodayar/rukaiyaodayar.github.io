@@ -15,7 +15,8 @@ Fluent in English, Sinhala, Tamil, Leadership, Team work, Time management, Creat
 ### Hobbies
 Playing Chess, Photography
 
-- 📫 How to reach me **rukaiyaodayar2003@gmail.com**
+### Contact Details
+rukaiyaodayar2003@gmail.com
 
 📄 To get my resume click the link: [assets/HS23583214_Odayar Fathima Rukaiya.pdf](assets/HS23583214_Odayar Fathima Rukaiya.pdf)
 
